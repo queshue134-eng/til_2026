@@ -273,7 +273,7 @@ In NLP, articles are challenging for:
 
 ## 💡 Fun Facts
 
-1. **"The" has its own Unicode character:** �765 (LATIN SMALL LETTER THORN WITH STROKE THROUGH DESCENDER)
+1. **The letter thorn (þ) still exists in Unicode:** U+00FE (lowercase þ) and U+00DE (uppercase Þ) — descendants of the Old English letter for "th"
 
 2. **Longest "the" in place names:** "The Bronx" is the only NYC borough with "The"
 
