@@ -1,8 +1,6 @@
 # TIL 2026 🚀
 
 > **Today I Learned** — A daily log of things I learn throughout 2026.
->
-> Goal: Maintain a **365-day GitHub contribution streak** by documenting one learning per day.
 
 ---
 
