@@ -30,6 +30,7 @@
 - [2026-01-01] [The Ridiculous Engineering Behind Modern Transistors](./2026/01-January/2026-01-01-euv-lithography-transistors.md) - [Watch Video](https://www.youtube.com/watch?v=MiUHjLxm3V0)
 - [2026-01-01] [Korean Occultism & Folklore in Exhuma](./2026/01-January/2026-01-01-korean-occultism-exhuma.md) - Film: Exhuma (2024)
 - [2026-01-01] [Stable Video Infinity — Infinite-Length AI Video](./2026/01-January/2026-01-01-stable-video-infinity.md) - [Watch Video](https://www.youtube.com/watch?v=-3DVJu72VhE)
+- [2026-01-01] [Python's `if __name__ == '__main__'` Explained](./2026/01-January/2026-01-01-python-name-main.md) - [Watch Video](https://www.youtube.com/watch?v=KZpYtNtGxSU)
 
 ---
 
