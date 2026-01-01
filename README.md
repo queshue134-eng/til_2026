@@ -32,6 +32,7 @@
 - [2026-01-01] [Stable Video Infinity — Infinite-Length AI Video](./2026/01-January/2026-01-01-stable-video-infinity.md) - [Watch Video](https://www.youtube.com/watch?v=-3DVJu72VhE)
 - [2026-01-01] [Python's `if __name__ == '__main__'` Explained](./2026/01-January/2026-01-01-python-name-main.md) - [Watch Video](https://www.youtube.com/watch?v=KZpYtNtGxSU)
 - [2026-01-01] [Quarto & Typst for PDF Reports](./2026/01-January/2026-01-01-quarto-typst-pdf.md) - [Watch Video](https://www.youtube.com/watch?v=idgZjnDIS1s)
+- [2026-01-01] [Agroforestry — The Future of Farming](./2026/01-January/2026-01-01-agroforestry-future-farming.md) - [Watch Video](https://www.youtube.com/watch?v=njsC4kKFO3s)
 
 ---
 
