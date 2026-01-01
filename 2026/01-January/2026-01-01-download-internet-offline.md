@@ -94,6 +94,52 @@ Preserve video content locally.
 
 ---
 
+## 🤖 Self-Hosting LLMs (Offline AI)
+
+Run AI models locally without internet dependency.
+
+### Popular Tools
+
+| Tool                      | Description                      |
+| ------------------------- | -------------------------------- |
+| **Ollama**                | Easy-to-use local LLM runner     |
+| **LM Studio**             | GUI for running local models     |
+| **llama.cpp**             | Efficient CPU inference for LLMs |
+| **text-generation-webui** | Feature-rich web interface       |
+| **LocalAI**               | OpenAI-compatible local API      |
+
+### Recommended Models (by VRAM)
+
+| VRAM  | Model                          | Size       |
+| ----- | ------------------------------ | ---------- |
+| 4GB   | Phi-3 Mini, Gemma 2B           | ~2-4 GB    |
+| 8GB   | Llama 3 8B, Mistral 7B         | ~4-8 GB    |
+| 16GB  | Llama 3 70B (Q4), Mixtral 8x7B | ~20-40 GB  |
+| 24GB+ | Llama 3 70B, Qwen 72B          | ~40-140 GB |
+
+### Quick Start with Ollama
+
+```bash
+# Install Ollama
+curl -fsSL https://ollama.com/install.sh | sh
+
+# Download and run a model
+ollama run llama3
+
+# Run with a specific quantization
+ollama run mistral:7b-instruct-q4_K_M
+```
+
+### Benefits of Local LLMs
+
+- **Privacy** — Data never leaves your machine
+- **No API costs** — Run unlimited queries
+- **Offline access** — Works without internet
+- **Customization** — Fine-tune for your needs
+- **No censorship** — Uncensored model options
+
+---
+
 ## ⚠️ Legal & Ethical Considerations
 
 1. **Copyright** — Only archive content you have rights to access
