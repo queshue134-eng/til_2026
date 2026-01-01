@@ -8,7 +8,7 @@
 
 | Month     | Entries | Status         |
 | --------- | ------- | -------------- |
-| January   | 2/31    | 🟢 In Progress |
+| January   | 1/31    | 🟢 In Progress |
 | February  | 0/28    | ⚪ Upcoming    |
 | March     | 0/31    | ⚪ Upcoming    |
 | April     | 0/30    | ⚪ Upcoming    |
@@ -21,7 +21,7 @@
 | November  | 0/30    | ⚪ Upcoming    |
 | December  | 0/31    | ⚪ Upcoming    |
 
-**Total: 2/365** ████░░░░░░░░░░░░░░░░ 0.55%
+**Total: 1/365** ████░░░░░░░░░░░░░░░░ 0.27%
 
 ---
 
