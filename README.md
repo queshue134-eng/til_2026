@@ -10,7 +10,7 @@
 
 | Month     | Entries | Status         |
 | --------- | ------- | -------------- |
-| January   | 1/31    | 🟢 In Progress |
+| January   | 2/31    | 🟢 In Progress |
 | February  | 0/28    | ⚪ Upcoming    |
 | March     | 0/31    | ⚪ Upcoming    |
 | April     | 0/30    | ⚪ Upcoming    |
@@ -23,13 +23,14 @@
 | November  | 0/30    | ⚪ Upcoming    |
 | December  | 0/31    | ⚪ Upcoming    |
 
-**Total: 1/365** ████░░░░░░░░░░░░░░░░ 0.27%
+**Total: 2/365** ████░░░░░░░░░░░░░░░░ 0.55%
 
 ---
 
 ## January 2026
 
 - [2026-01-01] [The Ridiculous Engineering Behind Modern Transistors](./2026/01-January/2026-01-01-euv-lithography-transistors.md) - [Watch Video](https://www.youtube.com/watch?v=MiUHjLxm3V0)
+- [2026-01-01] [Korean Occultism & Folklore in Exhuma](./2026/01-January/2026-01-01-korean-occultism-exhuma.md) - Film: Exhuma (2024)
 
 ---
 
