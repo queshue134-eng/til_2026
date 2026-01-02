@@ -8,7 +8,7 @@
 
 | Month     | Entries | Status         |
 | --------- | ------- | -------------- |
-| January   | 1/31    | 🟢 In Progress |
+| January   | 2/31    | 🟢 In Progress |
 | February  | 0/28    | ⚪ Upcoming    |
 | March     | 0/31    | ⚪ Upcoming    |
 | April     | 0/30    | ⚪ Upcoming    |
@@ -21,7 +21,7 @@
 | November  | 0/30    | ⚪ Upcoming    |
 | December  | 0/31    | ⚪ Upcoming    |
 
-**Total: 1/365** ░░░░░░░░░░░░░░░░░░░░ 0.27%
+**Total: 2/365** █░░░░░░░░░░░░░░░░░░░ 0.55%
 
 ---
 
@@ -35,6 +35,7 @@
 - [2026-01-01] [Agroforestry — The Future of Farming](./2026/01-January/2026-01-01-agroforestry-future-farming.md) - [Watch Video](https://www.youtube.com/watch?v=njsC4kKFO3s)
 - [2026-01-01] [How to Download the Internet](./2026/01-January/2026-01-01-download-internet-offline.md) - [Watch Video](https://www.youtube.com/watch?v=WZC2D38CaVY)
 - [2026-01-01] [What Does "The" Even Mean?](./2026/01-January/2026-01-01-definite-article-the.md) - [Watch Video](https://www.youtube.com/watch?v=F3fdXYQCDZ8)
+- [2026-01-02] [How to Use AntiGravity (Gemini AI Agent)](./2026/01-January/2026-01-02-antigravity-gemini-agent.md) - [Watch Video](https://www.youtube.com/watch?v=QZCYFJTv8jI)
 
 ---
 
