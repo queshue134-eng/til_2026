@@ -50,4 +50,6 @@ This repository is my commitment to continuous learning. Each entry contains:
 - 💻 Code examples or implementations
 - 📚 Additional resources
 
-**Let's keep the streak alive!** 🔥
+**朝聞道，夕死可矣。**
+_"If one hears the Way in the morning, one may die content in the evening."_
+— **Confucius (孔子)**, _Analerta (論語)_, 4.8
