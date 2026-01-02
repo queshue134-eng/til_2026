@@ -37,6 +37,7 @@
 - [2026-01-01] [What Does "The" Even Mean?](./2026/01-January/2026-01-01-definite-article-the.md) - [Watch Video](https://www.youtube.com/watch?v=F3fdXYQCDZ8)
 - [2026-01-02] [How to Use AntiGravity (Gemini AI Agent)](./2026/01-January/2026-01-02-antigravity-gemini-agent.md) - [Watch Video](https://www.youtube.com/watch?v=QZCYFJTv8jI)
 - [2026-01-02] [Firebase Studio — Full Stack AI Coding](./2026/01-January/2026-01-02-firebase-studio.md) - [Watch Video](https://www.youtube.com/watch?v=RHTTLmDkpwA)
+- [2026-01-02] [The Most Complex Model We Understand](./2026/01-January/2026-01-02-complex-model-understand.md) - [Watch Video](https://www.youtube.com/watch?v=D8GOeCFFby4)
 
 ---
 
