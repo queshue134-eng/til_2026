@@ -36,6 +36,7 @@
 - [2026-01-01] [How to Download the Internet](./2026/01-January/2026-01-01-download-internet-offline.md) - [Watch Video](https://www.youtube.com/watch?v=WZC2D38CaVY)
 - [2026-01-01] [What Does "The" Even Mean?](./2026/01-January/2026-01-01-definite-article-the.md) - [Watch Video](https://www.youtube.com/watch?v=F3fdXYQCDZ8)
 - [2026-01-02] [How to Use AntiGravity (Gemini AI Agent)](./2026/01-January/2026-01-02-antigravity-gemini-agent.md) - [Watch Video](https://www.youtube.com/watch?v=QZCYFJTv8jI)
+- [2026-01-02] [Firebase Studio — Full Stack AI Coding](./2026/01-January/2026-01-02-firebase-studio.md) - [Watch Video](https://www.youtube.com/watch?v=RHTTLmDkpwA)
 
 ---
 
